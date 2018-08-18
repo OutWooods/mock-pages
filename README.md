@@ -12,6 +12,8 @@ Another may be to make multiple examples of the same one with different techniqu
 
 But for now, I'm just going to copy some pages and put them here! 
 
+My CSS structure is primarily inspired by the great stuff utilty designs at tailwind. Which is totally worth a look.
+
 ## How to use
 
 Just clone the repo, open a file in your browser and have a look! 
