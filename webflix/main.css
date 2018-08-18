@@ -1,0 +1,35 @@
+h1 {
+    color: red;
+}
+
+/* Flex work */
+.flex {
+    display: flex;
+}
+
+.flex-0 {
+    flex-grow: 0;
+}
+
+.no-flex {
+    flex: none;
+}
+
+.space-evenly {
+    justify-content: space-evenly;
+}
+
+/* Margins and padding */
+.right {
+    margin-left: auto;
+}
+
+/* widths and lengths */
+w-1\/3 {
+    width:
+}
+
+/* Font work */
+.font-lg {
+    font-size: 2rem;
+}
