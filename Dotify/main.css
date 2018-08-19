@@ -1,0 +1,31 @@
+/* Flex box classes */
+.flex {
+    display: flex;
+}
+
+.tester {
+    justify-content: center;
+}
+
+.footer {
+}
+
+/* Width and height */
+
+.w-full {
+    width: 100vw;
+}
+
+.h-90 {
+    height: 90%;
+}
+
+/* Colours */
+
+.bg-garish-green {
+    background-color: chartreuse;
+}
+
+.bg-garish-pink {
+    background-color: hotpink;
+}
