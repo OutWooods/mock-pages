@@ -62,6 +62,10 @@
     background-color: chartreuse;
 }
 
+.bg-black {
+    background-color: black;
+}
+
 .bg-garish-green-darker {
     background-color: #1bb82e;
 }
@@ -81,6 +85,14 @@
 
 .text-left {
     text-align: left;
+}
+
+.text-grey-light {
+    color: lightgrey;
+}
+
+:hover.hover-light {
+    color: white;
 }
 
 /* overflow */
